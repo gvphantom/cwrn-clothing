@@ -1,4 +1,3 @@
-import React from "react";
 import CategoryItem from "../catergoryitems/category-item.component";
 import "./directory.styles.scss";
 
